@@ -1,0 +1,1 @@
+Create an initial resource model to test how this will work.
